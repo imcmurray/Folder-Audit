@@ -1,0 +1,38 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1234-5678
+
+Directory of C:\Projects\Dev
+
+04/05/2025  10:00 AM    <DIR>          Everyone    .
+04/05/2025  10:00 AM    <DIR>          Everyone    ..
+04/05/2025  10:00 AM    <DIR>          Everyone    Folder1
+04/05/2025  10:02 AM    <DIR>          PC1\Alice   Folder2
+04/05/2025  10:03 AM    <DIR>          PC2\Bob     Folder3
+04/05/2025  10:04 AM    <DIR>          Everyone    Folder4
+04/05/2025  10:05 AM    <DIR>          PC3\Charlie Folder5
+
+ Directory of C:\Projects\Dev2
+
+04/05/2025  10:06 AM    <DIR>          Everyone    .
+04/05/2025  10:06 AM    <DIR>          Everyone    ..
+04/05/2025  10:06 AM    <DIR>          Everyone    Folder6
+04/05/2025  10:07 AM    <DIR>          PC4\Diana   Folder7
+04/05/2025  10:08 AM    <DIR>          Everyone    Folder8
+04/05/2025  10:09 AM    <DIR>          PC5\Eve     Folder9
+04/05/2025  10:10 AM    <DIR>          Everyone    Folder10
+
+ Directory of C:\Projects\Dev3
+
+04/05/2025  10:11 AM    <DIR>          PC1\Alice   .
+04/05/2025  10:11 AM    <DIR>          PC1\Alice   ..
+04/05/2025  10:11 AM    <DIR>          PC1\Alice   Folder11
+04/05/2025  10:12 AM    <DIR>          PC2\Bob     Folder12
+04/05/2025  10:13 AM    <DIR>          Everyone    Folder13
+04/05/2025  10:14 AM    <DIR>          PC3\Charlie Folder14
+04/05/2025  10:15 AM    <DIR>          PC4\Diana   Folder15
+04/05/2025  10:16 AM    <DIR>          Everyone    Folder16
+04/05/2025  10:17 AM    <DIR>          PC5\Eve     Folder17
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+              23 Dir(s)  59,334,164,480 bytes free
